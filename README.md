@@ -1,6 +1,6 @@
 # NLP_machineTranslation
 # Goal
-In this project, we build a deep neural network that functions as part of a machine translation pipeline. The pipeline accepts English text as input and returns the korean translation. The goal is to achieve the highest translation accuracy possible.
+In this project, Ibuild a deep neural network that functions as part of a machine translation pipeline. The pipeline accepts English text as input and returns the korean translation. The goal is to achieve the highest translation accuracy possible.
 
 
 # Building the Pipeline
